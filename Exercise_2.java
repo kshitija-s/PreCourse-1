@@ -50,6 +50,7 @@ public class StackAsLinkedList {
             return 0; 
         } else { 
             return root.data; // Return the top 
+            //
         } 
     } 
   

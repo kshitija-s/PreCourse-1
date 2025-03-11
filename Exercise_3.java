@@ -73,6 +73,7 @@ public class LinkedList {
             currNode = currNode.next; 
         } 
         System.out.println(); 
+        //print
     } 
    
     // Driver code 

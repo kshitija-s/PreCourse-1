@@ -9,7 +9,7 @@ class Stack {
   
     boolean isEmpty() 
     { 
-        return top < 0; // no elements exists, retrun true
+        return top < 0; // no elements exists
     } 
 
     Stack() 
